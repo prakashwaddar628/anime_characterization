@@ -1,1 +1,2 @@
-datesets/
+# Ignore datasets directory
+/datesets/
